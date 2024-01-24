@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container input {
+    width: 15rem;
+    height: 3rem;
+    margin: 1.2rem;
+    border: 2px solid black;
+    outline: none;
+    font-size: 1.2rem;
+    padding: .5rem;
+}
+
+.container button {
+    width: 6rem;
+    height: 3rem;
+    outline: none;
+    border: 1px solid black;
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+}
+
+.container .close {
+    width: 2rem;
+} */
